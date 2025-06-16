@@ -31,7 +31,7 @@ This system has two main features:
 - SMTP for email verification
 
 **Machine Learning:**
-- Traditional ML: Logistic Regression, Random Forest, SVM, Decision Tree, Naive Bayes
+- Traditional ML: Logistic Regression, Random Forest, SVM, Decision Tree, Naive Bayes, KNN
 - Deep Learning: CNN for image classification
 
 ## 🔄 How It Works
