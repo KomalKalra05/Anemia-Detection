@@ -46,15 +46,3 @@ This system has two main features:
 2. CNN processes the image
 3. System identifies cell type
 4. Shows classification result
-
-## 🔧 Technical Details
-**Anemia Prediction:**
-* **Input**: 5 blood parameters (hemoglobin,MCH etc.)
-* **Models**: Multiple ML algorithms with model selection feature
-* **Best Performers**: Decision Tree and Random Forest models achieve highest accuracy
-* **Output**: Anemic or Non-anemic
-
-**Blood Cell Classification:**
-* **Input**: Microscopy images of blood cells
-* **Model**: CNN trained on cell images
-* **Output**: Eosinophil or Neutrophil classification
