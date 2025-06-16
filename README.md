@@ -19,13 +19,16 @@ This system has two main features:
 ## 🏗️ Tech Stack
 **Frontend:**
 * React.js for user interface
+  
 **Backend:**
 * Node.js for main server
 * Flask for ML/DL model APIs
 * MongoDB Atlas for database
+  
 **Authentication:**
 * Twilio for SMS OTP
 * SMTP for email verification
+
 **Machine Learning:**
 * **Traditional ML**: Decision Tree (highest accuracy), Random Forest (highest accuracy), Logistic Regression, SVM, KNN, Naive Bayes
 * **Deep Learning**: CNN for image classification
