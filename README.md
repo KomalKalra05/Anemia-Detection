@@ -6,7 +6,7 @@ A healthcare diagnostic tool that uses machine learning to predict anemia and cl
 
 This system has two main features:
 1. **Anemia Prediction**: Analyzes 5 blood parameters to predict if a patient has anemia
-2. **Blood Cell Classification**: Identifies blood cell types (eosinophil or neutrophil) from microscopy images
+2. **Blood Cell Classification**: Identifies blood cell types (eosinophil or neutrophil) from microscopic images
 
 ## ✨ Features
 
@@ -20,7 +20,6 @@ This system has two main features:
 
 **Frontend:**
 - React.js for user interface
-- Responsive design for different devices
 
 **Backend:**
 - Node.js for main server
